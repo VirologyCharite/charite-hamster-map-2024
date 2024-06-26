@@ -1,0 +1,352 @@
+Serum,Serum group
+1.1,BA.2 sera
+1.2,BA.2 sera
+1.3,BA.2 sera
+2.1,Alpha sera
+2.2,Alpha sera
+3.1,Beta sera
+3.2,Beta sera
+3.3,Beta sera
+4.1,Delta sera
+4.2,Delta sera
+4.3,Delta sera
+5.1,BA.1 sera
+5.2,BA.1 sera
+5.3,BA.1 sera
+6.1,BA.2-12 sera
+6.2,BA.2-12 sera
+6.3,BA.2-12 sera
+7.1,B.1+E484K sera
+7.2,B.1+E484K sera
+7.3,B.1+E484K sera
+8.1,D614G sera
+8.2,D614G sera
+8.3,D614G sera
+9.1,BA.5 sera
+9.2,BA.5 sera
+9.3,BA.5 sera
+BA-Serum-4,BA.5 sera
+BA-Serum-5,BA.5 sera
+BA-Serum-6,BA.5 sera
+BA Serum 4,BA.5 sera
+BA Serum 5,BA.5 sera
+BA Serum 6,BA.5 sera
+BA-Serum-1,BA.4 sera
+BA Serum 1,BA.4 sera
+12SE0030,XBB.2 sera
+12SE0031,XBB.2 sera
+12SE0032,XBB.2 sera
+13444,B.1.1.7 convalescent
+13449,B.1.1.7 convalescent
+13454,B.1.1.7 convalescent
+13458,B.1.1.7 convalescent
+13459,B.1.1.7 convalescent
+13590,B.1.1.7 convalescent
+13591,B.1.1.7 convalescent
+13592,B.1.1.7 convalescent
+13593,B.1.1.7 convalescent
+13594,B.1.1.7 convalescent
+13595,B.1.1.7 convalescent
+13596,B.1.1.7 convalescent
+13597,B.1.1.7 convalescent
+13598,B.1.1.7 convalescent
+13601,B.1.1.7 convalescent
+13602,B.1.1.7 convalescent
+13604,B.1.1.7 convalescent
+13801,B.1.1.7 convalescent
+13802,B.1.1.7 convalescent
+13803,B.1.1.7 convalescent
+13804,B.1.1.7 convalescent
+13806,B.1.1.7 convalescent
+13950,B.1.351 convalescent
+13951,B.1.351 convalescent
+13952,B.1.351 convalescent
+13953,B.1.351 convalescent
+13954,B.1.351 convalescent
+13955,B.1.351 convalescent
+13956,B.1.351 convalescent
+13957,B.1.351 convalescent
+13958,B.1.351 convalescent
+13959,B.1.351 convalescent
+13960,B.1.351 convalescent
+13961,B.1.351 convalescent
+13962,B.1.351 convalescent
+13963,B.1.351 convalescent
+13964,B.1.351 convalescent
+16271,B.1.351 convalescent
+16273,B.1.351 convalescent
+16274,B.1.351 convalescent
+16275,B.1.351 convalescent
+16277,B.1.351 convalescent
+16278,B.1.351 convalescent
+16279,B.1.351 convalescent
+16280,B.1.351 convalescent
+16281,B.1.351 convalescent
+16282,B.1.351 convalescent
+16283,B.1.351 convalescent
+16284,B.1.351 convalescent
+16285,B.1.351 convalescent
+16286,B.1.351 convalescent
+16287,B.1.351 convalescent
+16288,B.1.351 convalescent
+16289,B.1.351 convalescent
+16290,B.1.351 convalescent
+16291,B.1.351 convalescent
+16292,B.1.351 convalescent
+16293,B.1.351 convalescent
+16294,B.1.351 convalescent
+16295,B.1.351 convalescent
+16296,B.1.351 convalescent
+16297,B.1.351 convalescent
+LEV0491,AstraZeneca
+LEV0506,AstraZeneca
+LEV0509,AstraZeneca
+LEV0512,AstraZeneca
+LEV0513,AstraZeneca
+LEV0791,AstraZeneca
+LEV0792,AstraZeneca
+LEV0793,AstraZeneca
+LEV0794,AstraZeneca
+LEV0797,AstraZeneca
+LEV0155,Pfizer
+LEV0169,Pfizer
+LEV0188,Pfizer
+LEV0213,Pfizer
+LEV0220,Pfizer
+LEV0222,Pfizer
+LEV0259,Pfizer
+LEV0405,Pfizer
+LEV0407,Pfizer
+LEV0418,Pfizer
+5550,WT convalescent
+5551,WT convalescent
+5552,WT convalescent
+5558,WT convalescent
+5559,WT convalescent
+5565,WT convalescent
+5570,WT convalescent
+5579,WT convalescent
+5580,WT convalescent
+5589,WT convalescent
+5593,WT convalescent
+5594,WT convalescent
+5601,WT convalescent
+5604,WT convalescent
+5605,WT convalescent
+5609,WT convalescent
+5611,WT convalescent
+5612,WT convalescent
+5618,WT convalescent
+5620,WT convalescent
+5621,WT convalescent
+5627,WT convalescent
+5630,WT convalescent
+5636,WT convalescent
+5641,WT convalescent
+5647,WT convalescent
+5649,WT convalescent
+5657,WT convalescent
+5660,WT convalescent
+5662,WT convalescent
+5663,WT convalescent
+5675,WT convalescent
+5677,WT convalescent
+5678,WT convalescent
+5923,WT convalescent
+5936,WT convalescent
+6173,WT convalescent
+6174,WT convalescent
+6176,WT convalescent
+6178,WT convalescent
+6179,WT convalescent
+6181,WT convalescent
+6188,WT convalescent
+6189,WT convalescent
+6191,WT convalescent
+6777,WT convalescent
+6781,WT convalescent
+6783,WT convalescent
+6786,WT convalescent
+6790,WT convalescent
+6798,WT convalescent
+35731,BA.1 convalescent
+36509,BA.1 convalescent
+13447,B.1.1.7 convalescent
+13448,B.1.1.7 convalescent
+13452,B.1.1.7 convalescent
+13455,B.1.1.7 convalescent
+13456,B.1.1.7 convalescent
+13457,B.1.1.7 convalescent
+13599,B.1.1.7 convalescent
+13808,B.1.1.7 convalescent
+18025,B.1.617.2 convalescent
+18030,B.1.617.2 convalescent
+35700,BA.1 convalescent
+36508,BA.1 convalescent
+36511,BA.1 convalescent
+36531,BA.1 convalescent
+36532,BA.1 convalescent
+36533,BA.1 convalescent
+36534,BA.1 convalescent
+36535,BA.1 convalescent
+36536,BA.1 convalescent
+36537,BA.1 convalescent
+36538,BA.1 convalescent
+LEV0290,Pfizer
+LEV0493,Pfizer
+LEV0494,Pfizer
+LEV0502,Pfizer
+LEV0507,Pfizer
+LEV0730,Pfizer
+LEV0860,Pfizer
+LEV0863,Pfizer
+LEV0865,Pfizer
+LEV0868,Pfizer
+LEV0879,Pfizer
+LEV0880,Pfizer
+LEV0883,Pfizer
+LEV0884,Pfizer
+LEV0885,Pfizer
+LEV0888,Pfizer
+LEV0897,Pfizer
+LEV0973,Pfizer
+LEV0976,Pfizer
+LEV0977,Pfizer
+LEV1020,Pfizer
+LEV1048,Pfizer
+LEV1050,Pfizer
+LEV1056,Pfizer
+LEV1070,Pfizer
+LEV1071,Pfizer
+LEV1072,Pfizer
+LEV1073,Pfizer
+LEV1074,Pfizer
+LEV1075,Pfizer
+LEV1077,Pfizer
+LEV1078,Pfizer
+LEV1079,Pfizer
+LEV1082,Pfizer
+LEV1092,Pfizer
+LEV1094,Pfizer
+5815577,Pfizer
+5815578,Pfizer
+5815587,Pfizer
+5815673,Pfizer
+5815674,Pfizer
+5815677,Pfizer
+5815522,Pfizer
+5815523,Pfizer
+5815525,Pfizer
+5815528,Pfizer
+5815529,Pfizer
+5815544,Pfizer
+5815547,Pfizer
+5815548,Pfizer
+5815549,Pfizer
+5815550,Pfizer
+5815551,Pfizer
+5815553,Pfizer
+5815556,Pfizer
+5815559,Pfizer
+5815560,Pfizer
+5815561,Pfizer
+5815562,Pfizer
+5815564,Pfizer
+5815565,Pfizer
+5815567,Pfizer
+5815568,Pfizer
+5815579,Pfizer
+5815580,Pfizer
+5815593,Pfizer
+5815597,Pfizer
+5815598,Pfizer
+5815604,Pfizer
+5815614,Pfizer
+5815618,Pfizer
+5815621,Pfizer
+5815622,Pfizer
+5815623,Pfizer
+5815624,Pfizer
+5815625,Pfizer
+5815631,Pfizer
+5815632,Pfizer
+5815633,Pfizer
+5815634,Pfizer
+5815635,Pfizer
+5815636,Pfizer
+5815637,Pfizer
+5815639,Pfizer
+5815640,Pfizer
+5815641,Pfizer
+5815642,Pfizer
+5815643,Pfizer
+5815644,Pfizer
+LEV0796,Pfizer
+LEV0798,Pfizer
+LEV0806,Pfizer
+LEV0807,Pfizer
+LEV0887,Pfizer
+LEV0890,Pfizer
+LEV0892,Pfizer
+LEV0956,Pfizer
+LEV0957,Pfizer
+LEV0958,Pfizer
+LEV0960,Pfizer
+LEV0961,Pfizer
+LEV0962,Pfizer
+LEV0963,Pfizer
+LEV0964,Pfizer
+LEV0975,Pfizer
+LEV0987,Pfizer
+LEV0988,Pfizer
+LEV0989,Pfizer
+LEV1016,Pfizer
+LEV1017,Pfizer
+LEV1018,Pfizer
+LEV1019,Pfizer
+LEV1064,Pfizer
+LEV1065,Pfizer
+LEV1066,Pfizer
+LEV1067,Pfizer
+LEV1068,Pfizer
+LEV1069,Pfizer
+LEV1083,Pfizer
+LEV1084,Pfizer
+LEV1085,Pfizer
+LEV1087,Pfizer
+LEV1088,Pfizer
+LEV1089,Pfizer
+LEV1091,Pfizer
+18025,B.1.617.2 convalescent
+18026,B.1.617.2 convalescent
+18027,B.1.617.2 convalescent
+18028,B.1.617.2 convalescent
+18029,B.1.617.2 convalescent
+18030,B.1.617.2 convalescent
+18122,B.1.617.2 convalescent
+18125,B.1.617.2 convalescent
+5560,WT convalescent
+5571,WT convalescent
+5574,WT convalescent
+5576,WT convalescent
+5577,WT convalescent
+5578,WT convalescent
+5582,WT convalescent
+5587,WT convalescent
+5597,WT convalescent
+5599,WT convalescent
+5617,WT convalescent
+5624,WT convalescent
+5638,WT convalescent
+5639,WT convalescent
+5648,WT convalescent
+5653,WT convalescent
+5673,WT convalescent
+5914,WT convalescent
+5919,WT convalescent
+5932,WT convalescent
+5937,WT convalescent
+6177,WT convalescent
+6785,WT convalescent
+10354,WT convalescent
+13403,WT convalescent

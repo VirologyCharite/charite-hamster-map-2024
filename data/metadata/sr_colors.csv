@@ -1,0 +1,45 @@
+Serum,Color
+BA.2-26729_2,#8F4F81
+Alpha-21528,#637939
+Beta-22131,#e7ba52
+Delta-25853_19,#d18652
+BA.1-26335,#EF3737
+BA.2-26729_12,#8F4F81
+B.1+E484K,#5ce0e0
+WT-984,#393b79
+AstraZeneca,grey
+Pfizer,grey
+BA.5,#F08DA5
+BA.4,#F08DA5
+WT convalescent,#333333
+B.1.1.7 convalescent,#637939
+B.1.617.2 convalescent,#d18652
+B.1.351 convalescent,#e7ba52
+BA.1 convalescent,#EF3737
+D614G convalescent,#393b79
+Alpha convalescent,#637939
+Delta convalescent,#d18652
+Beta convalescent,#e7ba52
+B.1+E484K convalescent,#5ce0e0
+BA.2 convalescent,#8F4F81
+BA.2 convalescent-12,#8F4F81
+BA.1 convalescent,#EF3737
+BA.5 convalescent,#F08DA5
+BA.4 convalescent,#F08DA5
+XBB.2,#3d656e
+WT sera,#333333
+Alpha sera,#637939
+Delta sera,#d18652
+Beta sera,#e7ba52
+BA.1 sera,#EF3737
+D614G sera,#393b79
+Alpha sera,#637939
+Delta sera,#d18652
+Beta sera,#e7ba52
+B.1+E484K sera,#5ce0e0
+BA.2 sera,#8F4F81
+BA.2-12 sera,#8F4F81
+BA.1 sera,#EF3737
+BA.5 sera,#F08DA5
+BA.4 sera,#F08DA5
+XBB.2 sera,#3d656e
