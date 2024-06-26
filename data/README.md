@@ -1,4 +1,4 @@
-The directories contain the following:
+## The sub-directories contain the following:
 
 `220511`: Data from the human sera titrations used for figure 3.
 
